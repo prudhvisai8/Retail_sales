@@ -6,11 +6,11 @@ A small, synthetic dataset of retail transactions for demonstration, analysis, a
 
 ## 📊 Dataset Overview
 
-This dataset contains **16 retail transactions** with customer and purchase details.
+This dataset contains **1000 retail transactions** with customer and purchase details.
 
 ### File
-- `retail_transactions.csv` *(included in this repository)*
-
+- `retail_sales_dataset.xlsx` *(Excel file with dashboard included in this repository with raw data inside file )*
+- `retail_sales_dashboard.pbix` *(PowerBi dashboard)*
 ---
 
 ## 📑 Columns
